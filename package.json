@@ -1,0 +1,26 @@
+{
+  "name": "farosdev",
+  "version": "1.0.0",
+  "description": "source for farosdev.com",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roger-hamilton/farosdev.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/roger-hamilton/farosdev/issues"
+  },
+  "homepage": "https://github.com/roger-hamilton/farosdev#readme",
+  "dependencies": {
+    "compression": "^1.7.3",
+    "dotenv": "^6.0.0",
+    "express": "^4.16.3",
+    "sharp": "^0.20.8"
+  }
+}
