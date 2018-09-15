@@ -14,3 +14,4 @@
 # [START runtime]
 runtime: nodejs8
 # [END runtime]
+secure: always
